@@ -1,0 +1,6 @@
+﻿apikey.txt
+__pycache__/
+*.pyc
+.vscode/
+salida_ia.txt
+.env
